@@ -13,5 +13,8 @@ Installation
 
 Changelog
 ========================
-1.0
+2.0.0
+- Support for localization
+- Compitability with WooCommerce 4.0.1
+1.0.0
 - Initial release
