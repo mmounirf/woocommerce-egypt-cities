@@ -1,0 +1,203 @@
+#: woocommerce-eg-cities.php:54
+msgid "10th of Ramadan"
+msgstr ""
+
+#: woocommerce-eg-cities.php:55
+msgid "6th of October"
+msgstr ""
+
+#: woocommerce-eg-cities.php:56
+msgid "Abu Kabir"
+msgstr ""
+
+#: woocommerce-eg-cities.php:57
+msgid "Akhmim"
+msgstr ""
+
+#: woocommerce-eg-cities.php:58
+msgid "Al Mansura"
+msgstr ""
+
+#: woocommerce-eg-cities.php:59
+msgid "Al Minya"
+msgstr ""
+
+#: woocommerce-eg-cities.php:60
+msgid "Al Sharqia"
+msgstr ""
+
+#: woocommerce-eg-cities.php:61
+msgid "Al Wahat"
+msgstr ""
+
+#: woocommerce-eg-cities.php:62
+msgid "Alexandria"
+msgstr ""
+
+#: woocommerce-eg-cities.php:63
+msgid "Arish"
+msgstr ""
+
+#: woocommerce-eg-cities.php:64
+msgid "Aswan"
+msgstr ""
+
+#: woocommerce-eg-cities.php:65
+msgid "Asyut"
+msgstr ""
+
+#: woocommerce-eg-cities.php:66
+msgid "Banha"
+msgstr ""
+
+#: woocommerce-eg-cities.php:67
+msgid "Beheira"
+msgstr ""
+
+#: woocommerce-eg-cities.php:68
+msgid "Beni Suef"
+msgstr ""
+
+#: woocommerce-eg-cities.php:69
+msgid "Bilbais"
+msgstr ""
+
+#: woocommerce-eg-cities.php:70
+msgid "Cairo"
+msgstr ""
+
+#: woocommerce-eg-cities.php:72
+msgid "Damanhur"
+msgstr ""
+
+#: woocommerce-eg-cities.php:71
+msgid "Damietta"
+msgstr ""
+
+#: woocommerce-eg-cities.php:73
+msgid "Desouk"
+msgstr ""
+
+#: woocommerce-eg-cities.php:74
+msgid "El Hawamdeyya"
+msgstr ""
+
+#: woocommerce-eg-cities.php:75
+msgid "El Mahalla El Kubra"
+msgstr ""
+
+#: woocommerce-eg-cities.php:76
+msgid "Fayyum"
+msgstr ""
+
+#: woocommerce-eg-cities.php:77
+msgid "Gharbia"
+msgstr ""
+
+#: woocommerce-eg-cities.php:78
+msgid "Girga"
+msgstr ""
+
+#: woocommerce-eg-cities.php:79
+msgid "Giza"
+msgstr ""
+
+#: woocommerce-eg-cities.php:81
+msgid "Helwan"
+msgstr ""
+
+#: woocommerce-eg-cities.php:80
+msgid "Hurghada"
+msgstr ""
+
+#: woocommerce-eg-cities.php:82
+msgid "Idfu"
+msgstr ""
+
+#: woocommerce-eg-cities.php:83
+msgid "Ismailia"
+msgstr ""
+
+#: woocommerce-eg-cities.php:84
+msgid "Kafr El Dawwar"
+msgstr ""
+
+#: woocommerce-eg-cities.php:85
+msgid "Kafr El Sheikh"
+msgstr ""
+
+#: woocommerce-eg-cities.php:86
+msgid "Luxor"
+msgstr ""
+
+#: woocommerce-eg-cities.php:89
+msgid "Mallawi"
+msgstr ""
+
+#: woocommerce-eg-cities.php:90
+msgid "Marsa Matruh"
+msgstr ""
+
+#: woocommerce-eg-cities.php:91
+msgid "Matareya"
+msgstr ""
+
+#: woocommerce-eg-cities.php:92
+msgid "Mit Ghamr"
+msgstr ""
+
+#: woocommerce-eg-cities.php:93
+msgid "Monofeya"
+msgstr ""
+
+#: woocommerce-eg-cities.php:87
+msgid "New Valley"
+msgstr ""
+
+#: woocommerce-eg-cities.php:88
+msgid "Northern Coast"
+msgstr ""
+
+#: woocommerce-eg-cities.php:94
+msgid "Port Said"
+msgstr ""
+
+#: woocommerce-eg-cities.php:95
+msgid "Qalyub"
+msgstr ""
+
+#: woocommerce-eg-cities.php:96
+msgid "Qena"
+msgstr ""
+
+#: woocommerce-eg-cities.php:97
+msgid "Red Sea"
+msgstr ""
+
+#: woocommerce-eg-cities.php:98
+msgid "Shibin El Kom"
+msgstr ""
+
+#: woocommerce-eg-cities.php:99
+msgid "Shubra El Kheima"
+msgstr ""
+
+#: woocommerce-eg-cities.php:100
+msgid "Sinai"
+msgstr ""
+
+#: woocommerce-eg-cities.php:101
+msgid "Sohag"
+msgstr ""
+
+#: woocommerce-eg-cities.php:102
+msgid "Suez"
+msgstr ""
+
+#: woocommerce-eg-cities.php:103
+msgid "Tanta"
+msgstr ""
+
+#: woocommerce-eg-cities.php:104
+msgid "Zagazig"
+msgstr ""
